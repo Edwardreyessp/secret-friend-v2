@@ -1,1 +1,3 @@
-# secret-friend-v2
+# Secret Friend
+
+Secret friend mapper for Christmas
