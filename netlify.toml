@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "/friends"
+  to = "/friend"
   status = 200
   force = false
   query = {id = ":id"} # apply this rule for /?path=example
