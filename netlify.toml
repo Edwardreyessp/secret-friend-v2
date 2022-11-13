@@ -3,5 +3,4 @@
   to = "/friend"
   status = 200
   force = false
-  query = {id = ":id"} # apply this rule for /?path=example
-  conditions = {Role = ["admin"]}
+  query = {path = ":path"} # apply this rule for /?path=example
