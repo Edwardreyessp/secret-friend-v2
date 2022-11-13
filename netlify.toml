@@ -1,4 +1,7 @@
 [[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+  from = "/*"
+  to = "/friends"
+  status = 200
+  force = false
+  query = {id = ":id"} # apply this rule for /?path=example
+  conditions = {Role = ["admin"]}
